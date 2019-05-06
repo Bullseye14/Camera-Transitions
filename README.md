@@ -1,5 +1,7 @@
 # CAMERA TRANSITIONS
 
+By [Pol Casaú](https://linkedin.com/in/pol-casaú-779045181/), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s subject Project 2, under the supervision of lecturer [Ricard Pillosu](https://www.linkedin.com/in/ricardpillosu/?originalSubdomain=es).
+
 ## TABLE OF CONTENTS
 
 - CAMERA TRANSITIONS
