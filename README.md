@@ -34,27 +34,27 @@ Here you will see only some of the transitions that we see in video games, all o
 
 - __Alternating bars:__ 
 
-![Alternating Bars](https://github.com/Bullseye14/Camera-Transitions/blob/gh-pages/Images/alternating_bars.gif)
+![Alternating Bars](https://raw.githubusercontent.com/Bullseye14/Camera-Transitions/gh-pages/Images/alternating_bars.gif)
 
 - __Dissolve squares:__ 
 
-![Dissolve squares](https://github.com/Bullseye14/Camera-Transitions/blob/gh-pages/Images/dissolve_squares.gif)
+![Dissolve squares](https://raw.githubusercontent.com/Bullseye14/Camera-Transitions/gh-pages/Images/dissolve_squares.gif)
 
 - __Increasing cubes:__ 
 
-![Increasing cubes](https://github.com/Bullseye14/Camera-Transitions/blob/gh-pages/Images/increasing_cubes.gif)
+![Increasing cubes](https://raw.githubusercontent.com/Bullseye14/Camera-Transitions/gh-pages/Images/increasing_cubes.gif)
 
 - __Rotate cube:__ 
 
-![Rotate Cube](https://github.com/Bullseye14/Camera-Transitions/blob/gh-pages/Images/rotate_cube.gif)
+![Rotate Cube](https://raw.githubusercontent.com/Bullseye14/Camera-Transitions/gh-pages/Images/rotate_cube.gif)
 
 - __Rotate screen:__ 
 
-![Rotate screen](https://github.com/Bullseye14/Camera-Transitions/blob/gh-pages/Images/rotate_screen.gif)
+![Rotate screen](https://raw.githubusercontent.com/Bullseye14/Camera-Transitions/gh-pages/Images/rotate_screen.gif)
 
 - __Squeeze scene:__ 
 
-![Squeeze scene](https://github.com/Bullseye14/Camera-Transitions/blob/gh-pages/Images/squeeze.gif)
+![Squeeze scene](https://raw.githubusercontent.com/Bullseye14/Camera-Transitions/gh-pages/Images/squeeze.gif)
 
 ## TIPS FOR CAMERA TRANSITIONS
 The first important thing to be aware of is that it can look weird if you are using different transitions for every scene, as it's advisable to keep them the same style all the time.
