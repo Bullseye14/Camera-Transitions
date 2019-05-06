@@ -1,6 +1,6 @@
 # CAMERA TRANSITIONS
 
-By [Pol Casaú](linkedin.com/in/pol-casaú-779045181/), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s subject Project 2, under the supervision of lecturer [Ricard Pillosu](https://www.linkedin.com/in/ricardpillosu/?originalSubdomain=es).
+By [Pol CasaÃº](linkedin.com/in/pol-casaÃº-779045181/), student of the [Bachelorâ€™s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second yearâ€™s subject Project 2, under the supervision of lecturer [Ricard Pillosu](https://www.linkedin.com/in/ricardpillosu/?originalSubdomain=es).
 
 You can visit my website [here](https://bullseye14.github.io/Camera-Transitions/), where you will find all the information about the camera transitions.
 
@@ -19,7 +19,7 @@ Download the [release]() and execute the CameraTransitions.exe file, you will ha
 If you have any question about my work, you can find me on:
 
 - [Github](https://github.com/Bullseye14)
-- [Mail](pccpolcasau@gmail.com)
+- [LinkedIn](linkedin.com/in/pol-casaÃº-779045181/)
 
 
 ## WEBGRAPHY
