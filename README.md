@@ -69,3 +69,4 @@ The best camera transitions should go unnoticed, meaning that you feel that it's
 
 - [GIFS 1](https://www.youtube.com/watch?v=OAH0MoAv2CI)
 - [GIFS 2](https://www.youtube.com/watch?v=dJ21oJURdTE)
+- [GIFS 3](https://www.youtube.com/watch?v=iWGvt3KkfqU)
