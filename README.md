@@ -24,9 +24,32 @@ When we want to find information about camera transitions, we find out that most
 ### TELEVISION
 
 - __Fade In / Out:__ The scene is turning gradually to a single color. Black and white are the most common ones; fading to black is used in dramatic or emotional scenes, or to introduce the credits at the end of a film, while fading to white is used to create a sense of hope or ambiguity.
+
+![Fade to black](https://raw.githubusercontent.com/Bullseye14/Camera-Transitions/gh-pages/Images/FadeToBlack.gif)
+
+_Fade to black example_
+
 - __Dissolves:__ The dissolve overlaps two scenes. The first one gradually disappears while the scene is transitioning from one shot to the next one.
+
+![Dissolve](https://raw.githubusercontent.com/Bullseye14/Camera-Transitions/gh-pages/Images/Dissolve.gif)
+
+_Dissolve example_
+
 - __Wipes:__ This happens when a shot travels from one side of the screen to the other, replacing the previous scene. It exists the _whip pan_, which is a sub cathegory of wipe, but it tends to be much faster. The whip pan is not always changing from one scene to another, but can be used to change the angle in the same shot.
+
+![Wipe](https://raw.githubusercontent.com/Bullseye14/Camera-Transitions/gh-pages/Images/Wipe.gif) 
+
+_Wipe example_
+
+![Whip pan](https://raw.githubusercontent.com/Bullseye14/Camera-Transitions/gh-pages/Images/Whip%20pan.gif)
+
+_Whip pan example_
+
 - __Zoom:__ This type of transitions are used to give the sensation of increasing pace while switching between scenes.
+
+![Zoom](https://raw.githubusercontent.com/Bullseye14/Camera-Transitions/gh-pages/Images/Zoom.gif)
+
+_Zoom example_
 
 ### VIDEOGAMES
 
