@@ -127,4 +127,6 @@ In the _void Exit()_, we undo the animation, that is normally doing the same as 
 - [Documentation 2](http://www.davetech.co.uk/screentransitions)
 - [Documentation 3](https://www.webopedia.com/TERM/S/shader.html)
 - [Documentation 4](https://biteable.com/blog/tips/video-transitions-effects-examples/)
-
+- [Randomizer engine 1](http://www.cplusplus.com/forum/general/188645/)
+- [Randomizer engine 2](https://stackoverflow.com/questions/15461140/stddefault-random-engine-generate-values-between-0-0-and-1-0)
+- [Randomizer engine 3](https://es.cppreference.com/w/cpp/algorithm/random_shuffle)
