@@ -121,3 +121,10 @@ In the _void Exit()_, we undo the animation, that is normally doing the same as 
 - [GIFS 1](https://www.youtube.com/watch?v=OAH0MoAv2CI)
 - [GIFS 2](https://www.youtube.com/watch?v=dJ21oJURdTE)
 - [GIFS 3](https://www.youtube.com/watch?v=iWGvt3KkfqU)
+- [Video 1](https://www.youtube.com/watch?v=BagcGilr5vc)
+- [Video 2](https://www.youtube.com/watch?v=C7307qRmlMI)
+- [Documentation 1](http://www.ibuprogames.com/2015/11/10/camera-transitions/)
+- [Documentation 2](http://www.davetech.co.uk/screentransitions)
+- [Documentation 3](https://www.webopedia.com/TERM/S/shader.html)
+- [Documentation 4](https://biteable.com/blog/tips/video-transitions-effects-examples/)
+
