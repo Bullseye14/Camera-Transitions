@@ -28,7 +28,6 @@ If you have any question about my work, you can find me on:
 
 - [Video 1](https://www.youtube.com/watch?v=BagcGilr5vc)
 - [Video 2](https://www.youtube.com/watch?v=C7307qRmlMI)
-
 - [Documentation 1](http://www.ibuprogames.com/2015/11/10/camera-transitions/)
 - [Documentation 2](http://www.davetech.co.uk/screentransitions)
 - [Documentation 3](https://www.webopedia.com/TERM/S/shader.html)
