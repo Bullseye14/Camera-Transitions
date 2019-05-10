@@ -98,7 +98,7 @@ Here you will find the explanation on how this transitions are coded in C/C++, u
 
 ### TRANSITION MANAGER
 
-This module is the one that creates, contains and deletes all the transitions. When you call a transition, the transition manager creates a New Transition() and does a push_back() of it to the list of active transitions. When this transition has ended and has already changed the scene, this module erases the transition from the list and deletes it.
+This module is the one that creates, contains and deletes all the transitions. When you call a transition, the transition manager creates a New Transition() and does a push_back() of it to the list of active transitions. When this transition has ended, this module removes the transition from the list and deletes it.
 
 ### TRANSITION
 
