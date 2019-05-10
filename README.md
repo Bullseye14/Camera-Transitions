@@ -9,10 +9,12 @@ You can visit my website [here](https://bullseye14.github.io/Camera-Transitions/
 
 Download the [release]() and execute the CameraTransitions.exe file, you will have the option to try the following features:
 
-- Fade To White
-- Dissolve
-- etc
-
+- Move the camera to the mouse position ==> LEFT CLICK
+- Zoom the camera to the mouse position ==> RIGHT CLICK
+- Fade to color ==> 1
+- Wipe ==> 2
+- Crossing lines ==> 3
+- Squares ==> 5
 
 ## CONTACT 
 
