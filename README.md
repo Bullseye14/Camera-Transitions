@@ -5,9 +5,15 @@ By [Pol Casaú](https://linkedin.com/in/pol-casaú-779045181/), student of the [
 ## TABLE OF CONTENTS
 
 - CAMERA TRANSITIONS
+
 - TYPES OF TRANSITIONS
+
 - TIPS
+
+- HOW DOES IT WORK?
+
 - TODO'S
+
 - WEBGRAPHY
 
 ## CAMERA TRANSITIONS
@@ -85,6 +91,28 @@ The first important thing to be aware of is that it can look weird if you are us
 It's not compulsory to use transitions each time you switch between scenes: if you don't want to mean something with the transition, just add a simple cut.
 
 The best camera transitions should go unnoticed, meaning that you feel that it's all belonging to the same environment.
+
+## HOW DOES IT WORK?
+
+Here you will find the explanation on how this transitions are coded in C/C++, using Visual Studio.
+
+### TRANSITION MANAGER
+
+This module is the one that creates, contains and deletes all the transitions. When you call a transition, the transition manager creates a New Transition() and does a push_back() of it to the list of active transitions. When this transition has ended and has already changed the scene, this module erases the transition from the list and deletes it.
+
+### TRANSITION
+
+This is the Transitions class, and all the transitions (Fade, Wipe, Lines, etc) will derivate from this parent class. The class determinates the state of the transition (start transition, change scene and exit transition) and three functions that are called depending on the state of the transition (_void Start()_, _void Change()_, _void Exit()_). There is also another function (_Interpolation()_), where you pass two values (starting point and ending point), and the percentage, and this returns the values from the start to the end, depending on the percentage.
+
+### EACH TRANSITION
+
+Each transition has its own module, because the way in their change the scene is really different. In the constructor we initialize all the values that we will need to do the transition, and then we will call a Start, Change and Exit voids, if needed:
+
+In the _void Start()_, we do the animation in order to cover all the screen with the color wanted (normally black).
+
+In the _void Change()_, we cover all the screen with a _SDL_Rect screen_, and we change between scenes.
+
+In the _void Exit()_, we undo the animation, that is normally doing the same as we did in the start but changing the order of the interpolation.
 
 ## TODO'S IN VISUAL STUDIO
 
