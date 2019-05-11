@@ -10,6 +10,8 @@ By [Pol Casaú](https://linkedin.com/in/pol-casaú-779045181/), student of the [
 
 - TIPS
 
+- TRANSITIONS IN VISUAL STUDIO
+
 - HOW DOES IT WORK?
 
 - TODO'S
@@ -91,6 +93,36 @@ The first important thing to be aware of is that it can look weird if you are us
 It's not compulsory to use transitions each time you switch between scenes: if you don't want to mean something with the transition, just add a simple cut.
 
 The best camera transitions should go unnoticed, meaning that you feel that it's all belonging to the same environment.
+
+## TRANSITIONS IN VISUAL STUDIO
+
+In this part you can find the different transitions I managed to apply in C++. A part from all the ones shown here, the camera will also move to the mouse position if you click the left button of it.
+
+__Zoom transition - Right mouse button:__
+
+![Zoom](https://raw.githubusercontent.com/Bullseye14/Camera-Transitions/gh-pages/Images/ZOOM_1.gif)
+
+__Fade in / out - Key 1:__
+
+![Fade to white](https://raw.githubusercontent.com/Bullseye14/Camera-Transitions/gh-pages/Images/FADE.gif)
+
+__Wipe transition - Key 2:__
+
+![Wipe](https://raw.githubusercontent.com/Bullseye14/Camera-Transitions/gh-pages/Images/WIPE_1.gif)
+
+__Crossed lines - Key 3:__
+
+![Crossed lines](https://raw.githubusercontent.com/Bullseye14/Camera-Transitions/gh-pages/Images/LINES.gif)
+
+__Four different square transitions - Keys 4 to 7:__
+
+![Squares](https://raw.githubusercontent.com/Bullseye14/Camera-Transitions/gh-pages/Images/SQUARES_1.gif)
+
+![Squares](https://raw.githubusercontent.com/Bullseye14/Camera-Transitions/gh-pages/Images/SQUARES_2.gif)
+
+![Squares](https://raw.githubusercontent.com/Bullseye14/Camera-Transitions/gh-pages/Images/SQUARES_3.gif)
+
+![Squares](https://raw.githubusercontent.com/Bullseye14/Camera-Transitions/gh-pages/Images/SQUARES_4.gif)
 
 ## HOW DOES IT WORK?
 
