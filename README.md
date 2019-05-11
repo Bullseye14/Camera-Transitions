@@ -4,21 +4,23 @@ By [Pol Casaú](https://linkedin.com/in/pol-casaú-779045181/), student of the [
 
 You can visit my website [here](https://bullseye14.github.io/Camera-Transitions/), where you will find all the information about the camera transitions.
 
+The tools used for this project are [Tiled](https://www.mapeditor.org/) and [Visual Studio 2017](https://visualstudio.microsoft.com/es/). I have also used a [gif maker](https://giphy.com/create/gifmaker) to create all the multimedia content for the website.
 
 ## TEST IT
 
 Download the [release]() and execute the CameraTransitions.exe file, you will have the option to try the following features:
 
-- Move the camera to the mouse position ==> LEFT CLICK
-- Zoom the camera to the mouse position ==> RIGHT CLICK
-- Fade to color ==> 1
-- Wipe ==> 2
-- Crossing lines ==> 3
-- Squares ==> 5
+- __LEFT CLICK:__ Move the camera to the mouse position
+- __RIGHT CLICK:__ Zoom to mouse transition
+- __1:__ Fade in / out
+- __2:__ Wipe transition
+- __3:__ Crossing lines transition
+- __4:__ Squares transition type 1
+- __5:__ Squares transition type 2
+- __6:__ Squares transition type 3
+- __7:__ Squares transition type 4
 
-## CONTACT 
-
-If you have any question about my work, you can find me on:
+## PROFILE
 
 - [Github](https://github.com/Bullseye14)
 - [LinkedIn](https://linkedin.com/in/pol-casaú-779045181/)
