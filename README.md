@@ -28,9 +28,15 @@ Download the [release]() and execute the CameraTransitions.exe file, you will ha
 
 ## WEBGRAPHY
 
+- [GIFS 1](https://www.youtube.com/watch?v=OAH0MoAv2CI)
+- [GIFS 2](https://www.youtube.com/watch?v=dJ21oJURdTE)
+- [GIFS 3](https://www.youtube.com/watch?v=iWGvt3KkfqU)
 - [Video 1](https://www.youtube.com/watch?v=BagcGilr5vc)
 - [Video 2](https://www.youtube.com/watch?v=C7307qRmlMI)
 - [Documentation 1](http://www.ibuprogames.com/2015/11/10/camera-transitions/)
 - [Documentation 2](http://www.davetech.co.uk/screentransitions)
 - [Documentation 3](https://www.webopedia.com/TERM/S/shader.html)
 - [Documentation 4](https://biteable.com/blog/tips/video-transitions-effects-examples/)
+- [Randomizer engine 1](http://www.cplusplus.com/forum/general/188645/)
+- [Randomizer engine 2](https://stackoverflow.com/questions/15461140/stddefault-random-engine-generate-values-between-0-0-and-1-0)
+- [Randomizer engine 3](https://es.cppreference.com/w/cpp/algorithm/random_shuffle)
