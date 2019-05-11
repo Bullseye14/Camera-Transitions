@@ -148,6 +148,88 @@ In the _void Exit()_, we undo the animation, that is normally doing the same as 
 
 ## TODO'S IN VISUAL STUDIO
 
+In order to do the TODO's, you will have to go to my [repository](https://github.com/Bullseye14/Camera-Transitions), download the ZIP file of the master branch, and execute the TODO's solution inside the TODOs Camera Transition Folder.
+
+### TODO 1
+
+__TO DO__
+
+Declare a condition that makes the step change when time's over. You will have to do the same on the Exit() void below.
+
+The next state of the transition is... no transition. You also have to clean the transition in some way. 
+
+_TIP:_ See TransitionManager (or ask for help :D)
+
+__SOLUTION__
+
+![TODO1](https://raw.githubusercontent.com/Bullseye14/Camera-Transitions/gh-pages/Images/TODO1.PNG)
+![TODO1](https://raw.githubusercontent.com/Bullseye14/Camera-Transitions/gh-pages/Images/TODO1_1.PNG)
+
+
+### TODO 2
+
+__TO DO__
+
+Fade a color. A color fades from 0 to 100% opacity. Call the function FillScreen() and think about which value you pass.
+
+_TIP:_ You'll have to use the Interpolation() function
+
+__SOLUTION__
+
+![TODO2](https://raw.githubusercontent.com/Bullseye14/Camera-Transitions/gh-pages/Images/TODO2.PNG)
+
+### TODO 3
+
+__TO DO__
+
+Make the fade out effect.
+
+__SOLUTION__
+
+![TODO3](https://raw.githubusercontent.com/Bullseye14/Camera-Transitions/gh-pages/Images/TODO3.PNG)
+
+### TODO 4
+
+__TO DO__
+
+Make the wipe effect.
+
+_TIP:_ You have to change the screen.x value
+
+__SOLUTION__
+
+![TODO4](https://raw.githubusercontent.com/Bullseye14/Camera-Transitions/gh-pages/Images/TODO4.PNG)
+
+### TODO 5
+
+__TO DO__
+
+Get the effect of the black square exiting from the screen.
+
+__SOLUTION__
+
+![TODO5](https://raw.githubusercontent.com/Bullseye14/Camera-Transitions/gh-pages/Images/TODO5.PNG)
+
+### TODO 6
+
+__TO DO__
+
+Make that the lines do the effect of crossing through the screen. Take into account that some of them are in the left of the screen and some others in the right.
+
+__SOLUTION__
+
+![TODO6](https://raw.githubusercontent.com/Bullseye14/Camera-Transitions/gh-pages/Images/TODO6.PNG)
+
+### TODO 7
+
+__TO DO__
+
+The lines have to disappear from the screen.
+
+__SOLUTION__
+
+![TODO7](https://raw.githubusercontent.com/Bullseye14/Camera-Transitions/gh-pages/Images/TODO7.PNG)
+
 ## WEBGRAPHY
 
 - [GIFS 1](https://www.youtube.com/watch?v=OAH0MoAv2CI)
