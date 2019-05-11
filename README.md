@@ -8,7 +8,7 @@ The tools used for this project are [Tiled](https://www.mapeditor.org/) and [Vis
 
 ## TEST IT
 
-Download the [release]() and execute the CameraTransitions.exe file, you will have the option to try the following features:
+Download the [release](https://github.com/Bullseye14/Camera-Transitions/releases/tag/1.0) and execute the CameraTransitions.exe file, you will have the option to try the following features:
 
 - __LEFT CLICK:__ Move the camera to the mouse position
 - __RIGHT CLICK:__ Zoom to mouse transition
