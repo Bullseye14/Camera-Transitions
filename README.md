@@ -130,3 +130,4 @@ In the _void Exit()_, we undo the animation, that is normally doing the same as 
 - [Randomizer engine 1](http://www.cplusplus.com/forum/general/188645/)
 - [Randomizer engine 2](https://stackoverflow.com/questions/15461140/stddefault-random-engine-generate-values-between-0-0-and-1-0)
 - [Randomizer engine 3](https://es.cppreference.com/w/cpp/algorithm/random_shuffle)
+- [Interpolation](http://www.cplusplus.com/forum/general/216928/)
