@@ -21,8 +21,7 @@ void Wipe::Start() {
 
 	j1Transitions::Start();
 
-	float current_width = Interpolation(w, 0, percentage);
-	screen.x = -current_width;
+	screen.x = Interpolation(-(int)w, 0, percentage);
 
 	SDL_SetRenderDrawColor(App->render->renderer, color.r, color.g, color.b, 255);
 	SDL_RenderFillRect(App->render->renderer, &screen);	
@@ -46,8 +45,7 @@ void Wipe::Exit() {
 
 	j1Transitions::Exit();
 
-	float current_width = Interpolation(0, (int)w, percentage);
-	screen.x = current_width;
+	screen.x = Interpolation(0, (int)w, percentage);
 
 	SDL_SetRenderDrawColor(App->render->renderer, color.r, color.g, color.b, 255);
 	SDL_RenderFillRect(App->render->renderer, &screen);

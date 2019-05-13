@@ -46,14 +46,11 @@ void Lines::Start() {
 
 	j1Transitions::Start();
 
-	float current_w_right = Interpolation(-(int)w, 0, percentage);
-	float current_w_left = Interpolation(w, 0, percentage);
-
 	for (int i = 0; i < 11; i++) {
 		if (i % 2 == 0)
-			lines[i].x = -current_w_left;
+			lines[i].x = Interpolation(-(int)w, 0, percentage);
 		else
-			lines[i].x = -current_w_right;
+			lines[i].x = Interpolation((int)w, 0, percentage);
 	}
 
 	SDL_SetRenderDrawColor(App->render->renderer, color.r, color.g, color.b, 255);
@@ -79,14 +76,11 @@ void Lines::Exit() {
 
 	j1Transitions::Exit();
 
-	float current_w_right = Interpolation(0, w, percentage);
-	float current_w_left = Interpolation(0, -(int)w, percentage);
-
 	for (int i = 0; i < 11; i++) {
 		if (i % 2 == 0)
-			lines[i].x = -current_w_left;
+			lines[i].x = Interpolation(0, (int)w, percentage);
 		else
-			lines[i].x = -current_w_right;
+			lines[i].x = Interpolation(0, -(int)w, percentage);
 	}
 
 	SDL_SetRenderDrawColor(App->render->renderer, color.r, color.g, color.b, 255);
